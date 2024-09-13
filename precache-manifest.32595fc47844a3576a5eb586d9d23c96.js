@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LICENSE"
   },
   {
-    "revision": "d0fb15613b9d17f7de37",
+    "revision": "289bbb91266b9aeb16d5",
     "url": "/css/app.7b2b193d.css"
   },
   {
@@ -14,6 +14,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "233ad7ca63877be42022",
     "url": "/css/chunk-3ece9ce1.eca2f07a.css"
+  },
+  {
+    "revision": "c01a3cde33b47fba0175",
+    "url": "/css/chunk-5e9a679c.9b1f2f32.css"
   },
   {
     "revision": "858f69bde4dcd3d6a363",
@@ -34,10 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "06c2e0d144970c7d964d",
     "url": "/css/chunk-7f100b71.be338a9e.css"
-  },
-  {
-    "revision": "2d4ad26572005b9ffe8d",
-    "url": "/css/chunk-9a034aec.3bb5f8d3.css"
   },
   {
     "revision": "6495701d0b603278abda",
@@ -168,12 +168,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons  -orig/safari-pinned-tab.svg"
   },
   {
-    "revision": "946aa539cf4e619852950b44bf333820",
+    "revision": "a12670fbdd2124e1902c5d2a8eaf492c",
     "url": "/index.html"
   },
   {
-    "revision": "d0fb15613b9d17f7de37",
-    "url": "/js/app.270161bb.js"
+    "revision": "289bbb91266b9aeb16d5",
+    "url": "/js/app.2bbf7625.js"
   },
   {
     "revision": "4ec3e061d26a4bd6f659",
@@ -190,6 +190,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "233ad7ca63877be42022",
     "url": "/js/chunk-3ece9ce1.ba9545d1.js"
+  },
+  {
+    "revision": "c01a3cde33b47fba0175",
+    "url": "/js/chunk-5e9a679c.abbad201.js"
   },
   {
     "revision": "858f69bde4dcd3d6a363",
@@ -214,10 +218,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "06c2e0d144970c7d964d",
     "url": "/js/chunk-7f100b71.bfef31ff.js"
-  },
-  {
-    "revision": "2d4ad26572005b9ffe8d",
-    "url": "/js/chunk-9a034aec.ef56ef57.js"
   },
   {
     "revision": "6495701d0b603278abda",
