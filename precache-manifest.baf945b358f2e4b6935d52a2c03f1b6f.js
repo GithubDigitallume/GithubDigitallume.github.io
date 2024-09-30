@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LICENSE"
   },
   {
-    "revision": "29c232d390acd2346d18",
+    "revision": "ad2aa6e64659f2a00905",
     "url": "/css/app~d0ae3f07.7b2b193d.css"
   },
   {
@@ -14,6 +14,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3601b57672af505d0897",
     "url": "/css/chunk-0439a05a.a82fbd8b.css"
+  },
+  {
+    "revision": "6a8d07ddecb9437ba750",
+    "url": "/css/chunk-1b7927ce.4d9a5479.css"
   },
   {
     "revision": "599b6df527ee9613b05e",
@@ -38,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ebd93097da8968fd9582",
     "url": "/css/chunk-7027d5dc.c30e4fbf.css"
-  },
-  {
-    "revision": "4ad4b4b01919cd8511de",
-    "url": "/css/chunk-779a84e9.d4c85cba.css"
   },
   {
     "revision": "f18ba2062328ed8f2f49",
@@ -184,12 +184,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons  -orig/safari-pinned-tab.svg"
   },
   {
-    "revision": "b9a02d0b0ca4d40631670569f7fad11c",
+    "revision": "d35247f587f2534e287f04361cc86086",
     "url": "/index.html"
   },
   {
-    "revision": "29c232d390acd2346d18",
-    "url": "/js/app~d0ae3f07.741a3a34.js"
+    "revision": "ad2aa6e64659f2a00905",
+    "url": "/js/app~d0ae3f07.2c285614.js"
   },
   {
     "revision": "cd0e0a41c9e9d2a20b1c",
@@ -198,6 +198,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3601b57672af505d0897",
     "url": "/js/chunk-0439a05a.c2de8db9.js"
+  },
+  {
+    "revision": "6a8d07ddecb9437ba750",
+    "url": "/js/chunk-1b7927ce.13439963.js"
   },
   {
     "revision": "9fa7c5a30d91081ec5e0",
@@ -234,10 +238,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4dd0403e06cc3607fb85",
     "url": "/js/chunk-746849fb.c3ed5c6e.js"
-  },
-  {
-    "revision": "4ad4b4b01919cd8511de",
-    "url": "/js/chunk-779a84e9.e1a29364.js"
   },
   {
     "revision": "f18ba2062328ed8f2f49",
