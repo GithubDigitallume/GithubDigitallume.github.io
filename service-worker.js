@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.baf945b358f2e4b6935d52a2c03f1b6f.js"
+  "/precache-manifest.462f1b06eaf682ff4caef0f0a6773a39.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Extra-Gas-PWA"});
